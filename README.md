@@ -1,4 +1,4 @@
-# ai-native-setupAI-Native Dev Environment Setup
+# AI-Native Dev Environment Setup
 An AI-assisted coding setup on Windows: Cursor as the editor, with Claude Code
 and Codex running inside it as AI agents, plus Git and GitHub for version
 control. This is a short log of what I installed, the steps I took, and how it
